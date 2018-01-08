@@ -2,12 +2,16 @@
     "apps": [
         {
             "icon": "android/com.binghe.babydraw.jpg",
+            "name": "Baby Draw",
+            "des" : ""
             "store": "https://play.store.com/com.binghe.babydraw",
             "version": 1
         },
         {
             "icon": "android/com.binghe.yellowplanet.jpg",
             "store": "https://play.store.com/com.binghe.yellowplanet",
+            "name": "Yellow Planet",
+            "des" : ""
             "version": 1
         }
     ]
