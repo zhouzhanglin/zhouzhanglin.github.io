@@ -1,12 +1,14 @@
-[
-	{
-		icon:"moreapp/android/com.binghe.babydraw.png",
-		store:"https://play.store.com/com.binghe.babydraw",
-		version:"1"
-	},
-	{
-		icon:"moreapp/android/com.binghe.yellowplanet.png",
-		store:"https://play.store.com/com.binghe.yellowplanet",
-		version:"1"
-	}
-]
+{
+    "apps": [
+        {
+            "icon": "moreapp/android/com.binghe.babydraw.png",
+            "store": "https://play.store.com/com.binghe.babydraw",
+            "version": 1
+        },
+        {
+            " icon": "moreapp/android/com.binghe.yellowplanet.png",
+            "store": "https://play.store.com/com.binghe.yellowplanet",
+            "version": 1
+        }
+    ]
+}
