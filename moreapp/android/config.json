@@ -13,6 +13,13 @@
             "name": "Yellow Planet",
             "des" : "",
             "version": 1
+        },
+        {
+            "icon": "android/com.binghe.neon.jpg",
+            "store": "https://play.store.com/com.binghe.neon",
+            "name": "Pop Neon",
+            "des" : "",
+            "version": 1
         }
     ]
 }
