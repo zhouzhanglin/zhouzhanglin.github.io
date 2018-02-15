@@ -17,7 +17,14 @@
         {
             "icon": "android/com.binghe.neon.jpg",
             "store": "https://play.store.com/com.binghe.neon",
-            "name": "Pop Neon",
+            "name": "Yellow Planet",
+            "des" : "",
+            "version": 1
+        },
+        {
+            "icon": "android/com.binghe.yetidown.jpg",
+            "store": "https://play.store.com/com.binghe.yetidown",
+            "name": "Yeti Down",
             "des" : "",
             "version": 1
         }
