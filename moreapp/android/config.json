@@ -4,26 +4,26 @@
             "icon": "android/com.binghe.babydraw.jpg",
             "name": "Baby Draw",
             "des" : "",
-            "store": "https://play.store.com/com.binghe.babydraw",
+            "store": "https://play.google.com/store/apps/details?id=com.binghe.babydraw",
             "version": 1
         },
         {
             "icon": "android/com.binghe.yellowplanet.jpg",
-            "store": "https://play.store.com/com.binghe.yellowplanet",
+            "store": "https://play.google.com/store/apps/details?id=com.binghe.yellowplanet",
             "name": "Yellow Planet",
             "des" : "",
             "version": 1
         },
         {
             "icon": "android/com.binghe.neon.jpg",
-            "store": "https://play.store.com/com.binghe.neon",
+            "store": "https://play.google.com/store/apps/details?id=com.binghe.neon",
             "name": "Yellow Planet",
             "des" : "",
             "version": 1
         },
         {
             "icon": "android/com.binghe.yetidown.jpg",
-            "store": "https://play.store.com/com.binghe.yetidown",
+            "store": "https://play.google.com/store/apps/details?id=com.binghe.yetidown",
             "name": "Yeti Down",
             "des" : "",
             "version": 1
