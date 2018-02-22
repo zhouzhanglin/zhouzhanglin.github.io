@@ -27,6 +27,13 @@
             "name": "Yeti Down",
             "des" : "",
             "version": 1
+        },
+        {
+            "icon": "android/com.binghe.letterlearn.jpg",
+            "store": "https://play.google.com/store/apps/details?id=com.binghe.letterlearn",
+            "name": "Letter Learn",
+            "des" : "",
+            "version": 1
         }
     ]
 }
