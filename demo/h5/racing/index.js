@@ -1,0 +1,1 @@
+window.screenOrientation="portrait",loadLib("libs/laya.physics3D.runtime.js"),loadLib("libs/laya.physics3D.js"),loadLib("js/bundle.js");
