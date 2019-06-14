@@ -428,9 +428,9 @@
 									-0.01028198
 								],
 								"size":[
-									1.2,
+									1.8,
 									5,
-									1.2
+									1.8
 								]
 							}
 						],
@@ -570,9 +570,9 @@
 									-0.01028198
 								],
 								"size":[
-									1,
+									1.4,
 									3,
-									1
+									1.4
 								]
 							}
 						],
@@ -708,9 +708,9 @@
 									-0.01028198
 								],
 								"size":[
-									1,
+									1.4,
 									3,
-									1
+									1.4
 								]
 							}
 						],
@@ -846,9 +846,9 @@
 									-0.01028198
 								],
 								"size":[
-									1.2,
+									1.8,
 									5,
-									1.2
+									1.8
 								]
 							}
 						],
@@ -988,9 +988,9 @@
 									-0.01028198
 								],
 								"size":[
-									0.7,
+									1,
 									2.5,
-									0.7
+									1
 								]
 							}
 						],
@@ -1092,9 +1092,9 @@
 									-0.01028198
 								],
 								"size":[
-									1,
+									1.4,
 									3,
-									1
+									1.4
 								]
 							}
 						],
@@ -1496,9 +1496,9 @@
 									-0.01028198
 								],
 								"size":[
-									1,
+									1.4,
 									3,
-									1
+									1.4
 								]
 							}
 						],
@@ -1767,9 +1767,9 @@
 									-0.01028198
 								],
 								"size":[
-									1,
+									1.4,
 									3,
-									1
+									1.4
 								]
 							}
 						],
@@ -1905,9 +1905,9 @@
 									-0.01028198
 								],
 								"size":[
-									1,
+									1.4,
 									3,
-									1
+									1.4
 								]
 							}
 						],
@@ -2215,9 +2215,9 @@
 									-0.01028198
 								],
 								"size":[
-									1.2,
+									1.8,
 									5,
-									1.2
+									1.8
 								]
 							}
 						],
@@ -2310,6 +2310,312 @@
 						"child":[]
 					}
 				]
+			},
+			{
+				"type":"MeshSprite3D",
+				"props":{
+					"name":"des_tree2",
+					"active":true,
+					"isStatic":false,
+					"layer":0,
+					"position":[
+						22.4,
+						16.5,
+						25.5
+					],
+					"rotation":[
+						-0.02870314,
+						-0.1905888,
+						0.150651,
+						-0.9696167
+					],
+					"scale":[
+						3.2652,
+						3.2652,
+						3.2652
+					],
+					"meshPath":"Assets/res/mapobj/wuwu-tree1.lm",
+					"enableRender":true,
+					"materials":[
+						{
+							"path":"Assets/res/mat/ya/grassYa.lmat"
+						}
+					]
+				},
+				"components":[],
+				"child":[]
+			},
+			{
+				"type":"MeshSprite3D",
+				"props":{
+					"name":"des_tree2 (1)",
+					"active":true,
+					"isStatic":false,
+					"layer":0,
+					"position":[
+						23.2,
+						15.8,
+						77.3
+					],
+					"rotation":[
+						-0.02920572,
+						-0.4772965,
+						0.02120408,
+						-0.8780009
+					],
+					"scale":[
+						2.97996,
+						2.97996,
+						2.97996
+					],
+					"meshPath":"Assets/res/mapobj/wuwu-tree1.lm",
+					"enableRender":true,
+					"materials":[
+						{
+							"path":"Assets/res/mat/ya/grassYa.lmat"
+						}
+					]
+				},
+				"components":[],
+				"child":[]
+			},
+			{
+				"type":"MeshSprite3D",
+				"props":{
+					"name":"des_tree2 (2)",
+					"active":true,
+					"isStatic":false,
+					"layer":0,
+					"position":[
+						-23.6,
+						16.4,
+						61.2
+					],
+					"rotation":[
+						-0.09333656,
+						-0.4744678,
+						0.05605245,
+						-0.8735141
+					],
+					"scale":[
+						2.97996,
+						2.97996,
+						2.97996
+					],
+					"meshPath":"Assets/res/mapobj/wuwu-tree3.lm",
+					"enableRender":true,
+					"materials":[
+						{
+							"path":"Assets/res/mat/ya/grassYa.lmat"
+						}
+					]
+				},
+				"components":[],
+				"child":[]
+			},
+			{
+				"type":"MeshSprite3D",
+				"props":{
+					"name":"des_tree2 (3)",
+					"active":true,
+					"isStatic":false,
+					"layer":0,
+					"position":[
+						-22.73,
+						15.95,
+						36.92
+					],
+					"rotation":[
+						-0.05528722,
+						-0.6619594,
+						0.03363394,
+						-0.7467409
+					],
+					"scale":[
+						2.410671,
+						2.41067,
+						2.410671
+					],
+					"meshPath":"Assets/res/mapobj/wuwu-tree3.lm",
+					"enableRender":true,
+					"materials":[
+						{
+							"path":"Assets/res/mat/ya/grassYa.lmat"
+						}
+					]
+				},
+				"components":[],
+				"child":[]
+			},
+			{
+				"type":"MeshSprite3D",
+				"props":{
+					"name":"des_tree2 (4)",
+					"active":true,
+					"isStatic":false,
+					"layer":0,
+					"position":[
+						-20.91,
+						16.4,
+						17.54
+					],
+					"rotation":[
+						-0.03322881,
+						-0.6626636,
+						0.01408663,
+						-0.7480471
+					],
+					"scale":[
+						3.627101,
+						3.62709,
+						3.627101
+					],
+					"meshPath":"Assets/res/mapobj/wuwu-tree3.lm",
+					"enableRender":true,
+					"materials":[
+						{
+							"path":"Assets/res/mat/ya/grassYa.lmat"
+						}
+					]
+				},
+				"components":[],
+				"child":[]
+			},
+			{
+				"type":"MeshSprite3D",
+				"props":{
+					"name":"des_tree3 (6)",
+					"active":true,
+					"isStatic":false,
+					"layer":0,
+					"position":[
+						24.2,
+						16.7,
+						6.8
+					],
+					"rotation":[
+						0,
+						0,
+						-0.04450267,
+						-0.9990093
+					],
+					"scale":[
+						1.6711,
+						1.6711,
+						1.6711
+					],
+					"meshPath":"Assets/res/mapobj/wuwu-tree3.lm",
+					"enableRender":true,
+					"materials":[
+						{
+							"path":"Assets/res/mat/ya/grassYa.lmat"
+						}
+					]
+				},
+				"components":[],
+				"child":[]
+			},
+			{
+				"type":"MeshSprite3D",
+				"props":{
+					"name":"des_tree3 (7)",
+					"active":true,
+					"isStatic":false,
+					"layer":0,
+					"position":[
+						-20.7,
+						16.35,
+						92.3
+					],
+					"rotation":[
+						0,
+						0,
+						0,
+						-1
+					],
+					"scale":[
+						1.6711,
+						1.6711,
+						1.6711
+					],
+					"meshPath":"Assets/res/mapobj/wuwu-tree3.lm",
+					"enableRender":true,
+					"materials":[
+						{
+							"path":"Assets/res/mat/ya/grassYa.lmat"
+						}
+					]
+				},
+				"components":[],
+				"child":[]
+			},
+			{
+				"type":"MeshSprite3D",
+				"props":{
+					"name":"des_tree2 (5)",
+					"active":true,
+					"isStatic":false,
+					"layer":0,
+					"position":[
+						29.6,
+						16.2,
+						58.4
+					],
+					"rotation":[
+						0.0443877,
+						-0.6605615,
+						-0.05458812,
+						-0.747468
+					],
+					"scale":[
+						3.627101,
+						3.62709,
+						3.627101
+					],
+					"meshPath":"Assets/res/mapobj/wuwu-tree3.lm",
+					"enableRender":true,
+					"materials":[
+						{
+							"path":"Assets/res/mat/ya/grassYa.lmat"
+						}
+					]
+				},
+				"components":[],
+				"child":[]
+			},
+			{
+				"type":"MeshSprite3D",
+				"props":{
+					"name":"des_tree2 (6)",
+					"active":true,
+					"isStatic":false,
+					"layer":0,
+					"position":[
+						-27.7,
+						16.3,
+						44.1
+					],
+					"rotation":[
+						-0.05528722,
+						-0.6619594,
+						0.03363394,
+						-0.7467409
+					],
+					"scale":[
+						3.356618,
+						3.356616,
+						3.356619
+					],
+					"meshPath":"Assets/res/mapobj/wuwu-tree3.lm",
+					"enableRender":true,
+					"materials":[
+						{
+							"path":"Assets/res/mat/ya/grassYa.lmat"
+						}
+					]
+				},
+				"components":[],
+				"child":[]
 			}
 		]
 	}

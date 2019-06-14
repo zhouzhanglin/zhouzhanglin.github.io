@@ -428,9 +428,9 @@
 									-0.01028198
 								],
 								"size":[
-									1.2,
+									1.8,
 									5,
-									1.2
+									1.8
 								]
 							}
 						],
@@ -570,9 +570,9 @@
 									-0.01028198
 								],
 								"size":[
-									1.2,
+									1.8,
 									5,
-									1.2
+									1.8
 								]
 							}
 						],
@@ -712,9 +712,9 @@
 									-0.01028198
 								],
 								"size":[
-									1,
+									1.4,
 									3,
-									1
+									1.4
 								]
 							}
 						],
@@ -850,9 +850,9 @@
 									-0.01028198
 								],
 								"size":[
-									1,
+									1.4,
 									3,
-									1
+									1.4
 								]
 							}
 						],
@@ -988,9 +988,9 @@
 									-0.01028198
 								],
 								"size":[
-									0.74,
+									1,
 									2.78,
-									0.99
+									1
 								]
 							}
 						],
@@ -1917,6 +1917,74 @@
 						"child":[]
 					}
 				]
+			},
+			{
+				"type":"MeshSprite3D",
+				"props":{
+					"name":"des_tree2 (4)",
+					"active":true,
+					"isStatic":false,
+					"layer":0,
+					"position":[
+						-19.99,
+						16.41,
+						70.35
+					],
+					"rotation":[
+						-0.03322881,
+						-0.6626636,
+						0.01408663,
+						-0.7480471
+					],
+					"scale":[
+						3.627101,
+						3.62709,
+						3.627101
+					],
+					"meshPath":"Assets/res/mapobj/wuwu-tree3.lm",
+					"enableRender":true,
+					"materials":[
+						{
+							"path":"Assets/res/mat/ya/grassYa.lmat"
+						}
+					]
+				},
+				"components":[],
+				"child":[]
+			},
+			{
+				"type":"MeshSprite3D",
+				"props":{
+					"name":"des_tree3 (6)",
+					"active":true,
+					"isStatic":false,
+					"layer":0,
+					"position":[
+						19.76,
+						16.62,
+						37
+					],
+					"rotation":[
+						-0.000438804,
+						0.008086786,
+						-0.06090312,
+						-0.9981108
+					],
+					"scale":[
+						2.624964,
+						2.624964,
+						2.624964
+					],
+					"meshPath":"Assets/res/mapobj/wuwu-tree3.lm",
+					"enableRender":true,
+					"materials":[
+						{
+							"path":"Assets/res/mat/ya/grassYa.lmat"
+						}
+					]
+				},
+				"components":[],
+				"child":[]
 			}
 		]
 	}

@@ -428,9 +428,9 @@
 									-0.01028198
 								],
 								"size":[
-									0.74,
+									1,
 									2.78,
-									0.99
+									1
 								]
 							}
 						],
@@ -532,9 +532,9 @@
 									-0.01028198
 								],
 								"size":[
-									1.2,
+									1.8,
 									5,
-									1.2
+									1.8
 								]
 							}
 						],
@@ -674,9 +674,9 @@
 									-0.01028198
 								],
 								"size":[
-									1.2,
+									1.8,
 									5,
-									1.2
+									1.8
 								]
 							}
 						],
@@ -816,9 +816,9 @@
 									-0.01028198
 								],
 								"size":[
-									1,
+									1.4,
 									3,
-									1
+									1.4
 								]
 							}
 						],
@@ -954,9 +954,9 @@
 									-0.01028198
 								],
 								"size":[
-									1,
+									1.4,
 									3,
-									1
+									1.4
 								]
 							}
 						],
@@ -1092,9 +1092,9 @@
 									-0.01028198
 								],
 								"size":[
-									0.74,
+									1,
 									2.78,
-									0.99
+									1
 								]
 							}
 						],
@@ -1501,9 +1501,9 @@
 									-0.01028198
 								],
 								"size":[
-									1.2,
+									1.8,
 									5,
-									1.2
+									1.8
 								]
 							}
 						],
@@ -1815,9 +1815,9 @@
 									-0.01028198
 								],
 								"size":[
-									0.74,
+									1,
 									2.78,
-									0.99
+									1
 								]
 							}
 						],
@@ -1919,9 +1919,9 @@
 									-0.01028198
 								],
 								"size":[
-									0.74,
+									1,
 									2.78,
-									0.99
+									1
 								]
 							}
 						],
@@ -2171,6 +2171,74 @@
 						2.70773
 					],
 					"meshPath":"Assets/res/mapobj/wuwu-tree1.lm",
+					"enableRender":true,
+					"materials":[
+						{
+							"path":"Assets/res/mat/ya/grassYa.lmat"
+						}
+					]
+				},
+				"components":[],
+				"child":[]
+			},
+			{
+				"type":"MeshSprite3D",
+				"props":{
+					"name":"des_tree3 (6)",
+					"active":true,
+					"isStatic":false,
+					"layer":0,
+					"position":[
+						19.8,
+						16.31,
+						6.8
+					],
+					"rotation":[
+						0,
+						0,
+						0,
+						-1
+					],
+					"scale":[
+						1.6711,
+						1.6711,
+						1.6711
+					],
+					"meshPath":"Assets/res/mapobj/wuwu-tree3.lm",
+					"enableRender":true,
+					"materials":[
+						{
+							"path":"Assets/res/mat/ya/grassYa.lmat"
+						}
+					]
+				},
+				"components":[],
+				"child":[]
+			},
+			{
+				"type":"MeshSprite3D",
+				"props":{
+					"name":"des_tree3 (7)",
+					"active":true,
+					"isStatic":false,
+					"layer":0,
+					"position":[
+						-20.7,
+						16.35,
+						92.3
+					],
+					"rotation":[
+						0,
+						0,
+						0,
+						-1
+					],
+					"scale":[
+						1.6711,
+						1.6711,
+						1.6711
+					],
+					"meshPath":"Assets/res/mapobj/wuwu-tree3.lm",
 					"enableRender":true,
 					"materials":[
 						{
