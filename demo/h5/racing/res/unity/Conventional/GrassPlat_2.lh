@@ -621,7 +621,7 @@
 										]
 									}
 								],
-								"isTrigger":false
+								"isTrigger":true
 							}
 						],
 						"child":[]
@@ -763,7 +763,7 @@
 										]
 									}
 								],
-								"isTrigger":false
+								"isTrigger":true
 							}
 						],
 						"child":[]
@@ -901,7 +901,7 @@
 										"radius":2
 									}
 								],
-								"isTrigger":false
+								"isTrigger":true
 							}
 						],
 						"child":[]
@@ -1039,7 +1039,7 @@
 										"radius":2
 									}
 								],
-								"isTrigger":false
+								"isTrigger":true
 							}
 						],
 						"child":[]
@@ -1590,7 +1590,7 @@
 										]
 									}
 								],
-								"isTrigger":false
+								"isTrigger":true
 							}
 						],
 						"child":[]
