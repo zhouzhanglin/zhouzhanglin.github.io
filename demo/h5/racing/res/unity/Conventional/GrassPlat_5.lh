@@ -923,17 +923,13 @@
 								"rollingFriction":0,
 								"shapes":[
 									{
-										"type":"BoxColliderShape",
+										"type":"SphereColliderShape",
 										"center":[
 											0,
-											3,
+											1.78,
 											0
 										],
-										"size":[
-											5,
-											6,
-											5
-										]
+										"radius":2.9
 									}
 								],
 								"isTrigger":true
@@ -1065,17 +1061,13 @@
 								"rollingFriction":0,
 								"shapes":[
 									{
-										"type":"BoxColliderShape",
+										"type":"SphereColliderShape",
 										"center":[
 											0,
-											3,
+											1.78,
 											0
 										],
-										"size":[
-											5,
-											6,
-											5
-										]
+										"radius":2.9
 									}
 								],
 								"isTrigger":true
@@ -1653,17 +1645,13 @@
 								"rollingFriction":0,
 								"shapes":[
 									{
-										"type":"BoxColliderShape",
+										"type":"SphereColliderShape",
 										"center":[
 											0,
-											3,
+											1.78,
 											0
 										],
-										"size":[
-											5,
-											6,
-											5
-										]
+										"radius":2.9
 									}
 								],
 								"isTrigger":true

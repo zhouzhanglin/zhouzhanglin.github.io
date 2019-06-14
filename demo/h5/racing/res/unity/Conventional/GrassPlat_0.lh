@@ -975,7 +975,26 @@
 								1
 							]
 						},
-						"components":[],
+						"components":[
+							{
+								"type":"PhysicsCollider",
+								"restitution":0,
+								"friction":0.5,
+								"rollingFriction":0,
+								"shapes":[
+									{
+										"type":"SphereColliderShape",
+										"center":[
+											0,
+											1.78,
+											0
+										],
+										"radius":2.9
+									}
+								],
+								"isTrigger":true
+							}
+						],
 						"child":[]
 					}
 				]
@@ -1071,7 +1090,26 @@
 								1
 							]
 						},
-						"components":[],
+						"components":[
+							{
+								"type":"PhysicsCollider",
+								"restitution":0,
+								"friction":0.5,
+								"rollingFriction":0,
+								"shapes":[
+									{
+										"type":"SphereColliderShape",
+										"center":[
+											0,
+											1.78,
+											0
+										],
+										"radius":2.9
+									}
+								],
+								"isTrigger":true
+							}
+						],
 						"child":[]
 					}
 				]
@@ -1167,7 +1205,26 @@
 								1
 							]
 						},
-						"components":[],
+						"components":[
+							{
+								"type":"PhysicsCollider",
+								"restitution":0,
+								"friction":0.5,
+								"rollingFriction":0,
+								"shapes":[
+									{
+										"type":"SphereColliderShape",
+										"center":[
+											0,
+											1.78,
+											0
+										],
+										"radius":2.9
+									}
+								],
+								"isTrigger":true
+							}
+						],
 						"child":[]
 					}
 				]
